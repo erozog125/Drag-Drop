@@ -61,3 +61,7 @@ h2 {
   text-align: center;
   -webkit-text-stroke: 1px #14a3bc;
 }
+
+.drag {
+  background-color: #0e91ee;
+}
