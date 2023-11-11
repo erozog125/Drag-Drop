@@ -37,8 +37,8 @@ main > ul {
 }
 
 ul > li {
-    width: 20rem;
-    height: 6rem;
+    width: 25rem;
+    height: 10rem;
     border: double gray 2px;
     list-style: none;
     border-radius: 5px;
